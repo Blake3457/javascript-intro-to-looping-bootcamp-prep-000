@@ -20,7 +20,7 @@ function doWhileLoop(array) {
     return Math.random() >= 0.5
     do {
       array.pop();
-    } while
+    } while (array.length)
   }
   
 }
